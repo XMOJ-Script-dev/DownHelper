@@ -1,0 +1,6 @@
+name = "downhelper"
+main = "worker.js"
+compatibility_date = "2026-03-20"
+
+# Optional for authenticated download scenarios.
+# Use: wrangler secret put GITHUB_TOKEN
